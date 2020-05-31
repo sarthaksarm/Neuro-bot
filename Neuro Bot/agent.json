@@ -1,0 +1,64 @@
+{
+  "description": "Bot that makes you better interact with yourself.",
+  "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "0f8ec253-00ed-4d37-8e5d-f62353067c92",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d7d137d3-b68a-441f-9182-22decc929750",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5371153c-601d-4e78-88b6-5c4663a07ee3",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "f4a6cf8a-4573-4d70-9444-850ef8aa060f",
+      "f039c7ad-5199-47d4-a3c1-c983087ce27f",
+      "626c8f9b-660b-43ad-86bc-6da04a94ce35",
+      "b70585e4-32c5-4b35-8e3c-cb37c380a9b4",
+      "f24a20b7-622c-4405-b70d-22032c736892",
+      "3c59ceca-bdcf-4b54-bf03-03a8becc6c0d",
+      "e3870d7d-f03e-4880-b6f5-d856c175c3d6",
+      "bd5ce3a0-9717-472b-aec1-d072ae4a8fd5"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Colombo",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bd5ce3a0-9717-472b-aec1-d072ae4a8fd5",
+  "name": "see you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have a good day. Bye!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538684099,
+  "fallbackIntent": false,
+  "events": []
+}

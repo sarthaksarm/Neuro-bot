@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8c48c103-7cea-46d2-92a4-b121fa073e2f",
+    "data": [
+      {
+        "text": "Your suggestion is poor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538569200
+  },
+  {
+    "id": "1114ba9c-3cd4-4213-8a3e-6afeb02ce1e3",
+    "data": [
+      {
+        "text": "You are fool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538569200
+  },
+  {
+    "id": "f4aa2cbd-f131-4fe1-9a5e-c65f8f1194b6",
+    "data": [
+      {
+        "text": "You are mad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538569200
+  },
+  {
+    "id": "ab8f4fae-2960-4418-b39a-99ecd97a5a34",
+    "data": [
+      {
+        "text": "Definitely not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538569200
+  },
+  {
+    "id": "5ec16176-5e60-4d33-8d19-89d13b7324f8",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538569200
+  }
+]

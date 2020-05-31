@@ -1,0 +1,86 @@
+[
+  {
+    "id": "54218f42-6f55-444c-a356-386dacb276ab",
+    "data": [
+      {
+        "text": "i am not well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538354182
+  },
+  {
+    "id": "9e798fa1-0451-4afc-9be0-5c3de24d613c",
+    "data": [
+      {
+        "text": "i am unwell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538354182
+  },
+  {
+    "id": "4a116d99-2ff2-498c-8946-3a5f91e8d512",
+    "data": [
+      {
+        "text": "m unwell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538354182
+  },
+  {
+    "id": "42ee9c8f-2954-4560-ad0a-efc872b18f3e",
+    "data": [
+      {
+        "text": "i am sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538354182
+  },
+  {
+    "id": "ad5868a9-e066-47d9-a1ee-c0a7effc6a9b",
+    "data": [
+      {
+        "text": "m sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538354182
+  },
+  {
+    "id": "26ca3e5a-a406-4047-a07f-a4fb0185a784",
+    "data": [
+      {
+        "text": "i am not feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538354123
+  },
+  {
+    "id": "3d7c9adc-d667-4432-8981-787eb3fb44a0",
+    "data": [
+      {
+        "text": "i am feeling sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538354123
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6fb14fb8-2a27-464b-bf3a-3cfefcfe8f60",
+    "data": [
+      {
+        "text": "inexpressible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538684010
+  },
+  {
+    "id": "7e07c20c-c23e-4c0c-a3ea-bb7f70f08428",
+    "data": [
+      {
+        "text": "highly tensed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538684010
+  },
+  {
+    "id": "92733a00-5856-4d88-be42-73a296c1f117",
+    "data": [
+      {
+        "text": "tense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538684010
+  }
+]

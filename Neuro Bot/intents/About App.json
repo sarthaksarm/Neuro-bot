@@ -1,0 +1,30 @@
+{
+  "id": "0f8ec253-00ed-4d37-8e5d-f62353067c92",
+  "name": "About App",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is Neuro Bot from Neural Stats app developed by \u0027The Utimates\u0027 team from Siddaganga Institute of Technology. I am here to make you better interact with app-Neural Stats so that you can check your mental health status and take remedies, if any. How are you feeling right now?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538466603,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b70585e4-32c5-4b35-8e3c-cb37c380a9b4",
+  "name": "Happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great then. Be happy forever. Neural Stats wishes you a happy and cheerful life ahead."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538665744,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "eb7cad72-d016-46e3-8514-6b8efd569f7f",
+  "name": "Unwell",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, no worries. My suggestion for you is to open the \u0027Neural Stats\u0027 app, go through all tests and based on report generated, go for consulting nearby hospitals as shown in it. Is this fine?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538683248,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f24a20b7-622c-4405-b70d-22032c736892",
+  "name": "Unhealthy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Regret to hear that. Feel free to say, \"Open Neural Stats\" app after installing it and make best use of it."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538669658,
+  "fallbackIntent": false,
+  "events": []
+}

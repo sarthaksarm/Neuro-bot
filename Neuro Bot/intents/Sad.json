@@ -1,0 +1,28 @@
+{
+  "id": "d7d137d3-b68a-441f-9182-22decc929750",
+  "name": "Sad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Try explaining me more so that i can make you reach your issue accurately. Which issue are you feeling right now, like depressed ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538671988,
+  "fallbackIntent": false,
+  "events": []
+}

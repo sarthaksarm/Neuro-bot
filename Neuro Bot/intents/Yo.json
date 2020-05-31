@@ -1,0 +1,28 @@
+{
+  "id": "626c8f9b-660b-43ad-86bc-6da04a94ce35",
+  "name": "Yo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nice to hear that. See you soon. Good day."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538586806,
+  "fallbackIntent": false,
+  "events": []
+}

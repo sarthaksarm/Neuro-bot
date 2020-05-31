@@ -1,0 +1,32 @@
+{
+  "id": "5371153c-601d-4e78-88b6-5c4663a07ee3",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi there! Welcome to Neural Stats. How are you feeling now?",
+            "Hello! How are you feeling currently?",
+            "Hello dear! How is about your mood?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538683886,
+  "fallbackIntent": false,
+  "events": []
+}

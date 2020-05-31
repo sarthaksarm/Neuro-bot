@@ -1,0 +1,31 @@
+{
+  "id": "f4a6cf8a-4573-4d70-9444-850ef8aa060f",
+  "name": "End",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Nice to see you. Prediction done. You should now open the neutral stats app and improve your status.",
+            "Prediction or mental health status completed. For future queries or motivations required, u can open the app, Neural Stats."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538672135,
+  "fallbackIntent": false,
+  "events": []
+}

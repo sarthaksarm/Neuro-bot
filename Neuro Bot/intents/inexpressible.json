@@ -1,0 +1,31 @@
+{
+  "id": "e3870d7d-f03e-4880-b6f5-d856c175c3d6",
+  "name": "inexpressible",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Oh! Try going out for sometime, have some hangout and chill.",
+            "Ok. No problem, just have some chilling stuffs like hangout and you would be alright."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538684010,
+  "fallbackIntent": false,
+  "events": []
+}

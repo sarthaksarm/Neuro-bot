@@ -1,0 +1,28 @@
+{
+  "id": "3c59ceca-bdcf-4b54-bf03-03a8becc6c0d",
+  "name": "why",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oops! It would had been great if you would had shared, trusting me."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538683680,
+  "fallbackIntent": false,
+  "events": []
+}

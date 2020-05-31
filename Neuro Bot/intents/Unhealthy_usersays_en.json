@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7a307fb2-99ce-41de-a857-f1941eefc842",
+    "data": [
+      {
+        "text": "Unhealthy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538669658
+  },
+  {
+    "id": "27fec7da-0075-4470-842e-5e02ca1fed86",
+    "data": [
+      {
+        "text": "Bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538669658
+  },
+  {
+    "id": "c3321be4-2a19-4091-95b3-d15310cc6dda",
+    "data": [
+      {
+        "text": "Worst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538669658
+  },
+  {
+    "id": "32715204-8fa7-4a79-a5b7-741f85dfce57",
+    "data": [
+      {
+        "text": "Worse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538669658
+  },
+  {
+    "id": "958d5180-4d66-4f4f-8f90-21f76d445e29",
+    "data": [
+      {
+        "text": "Hard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538669658
+  },
+  {
+    "id": "7b42aa31-6c93-41e2-a5e9-287ee0580122",
+    "data": [
+      {
+        "text": "Angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538669658
+  }
+]
